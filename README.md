@@ -9,4 +9,9 @@ This is an attempt to re-create a melon / people playground type game that you c
 
 ### Controls
 
-- Tap to interact with the main menu
+- Tap to interact with the menus / UI
+- Use analog stick to control the pointer
+- A to select / interact with menus / UI
+- B to back out of a menu
+- L / R to zoom in and out
+- D-pad to move camera around
